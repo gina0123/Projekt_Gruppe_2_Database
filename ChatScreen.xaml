@@ -1,0 +1,58 @@
+﻿
+    <Window x:Class="Projekt_Gruppe_2.ChatScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Projekt_Gruppe_2"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Icon="Bilder/wechat2.ico"
+        xmlns:gif="http://wpfanimatedgif.codeplex.com"
+        Title="Chat-App  -  ChatScreen" Height="450" Width="500">
+
+    
+    <Grid>
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="0.1*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Border Background="CornflowerBlue" Grid.RowSpan="6" Grid.ColumnSpan="6">
+            <Image x:Name="konfettiGif" gif:ImageBehavior.AnimatedSource="Bilder/confetti-45.gif" Visibility="Hidden"/>
+        </Border>
+        <ListBox x:Name="listChat"  FontFamily="helvetica"  Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="1" Grid.RowSpan="3" Opacity="0.9"/>
+
+        <TextBox x:Name="textboxMessage" Opacity="0.9" FontFamily="helvetica" GotMouseCapture="textboxMessage_GotMouseCapture" Margin="0,0,100,0" KeyDown="textboxMessage_KeyDown" Text="Deine Nachricht..."  Grid.Column="1" Grid.Row="4" Grid.ColumnSpan="3" />
+        <Button x:Name="btnSenden" Style="{StaticResource RoundButtonTemplate}" Height="40" Width="80" Cursor="Hand" Grid.Column="3" Grid.Row="4" Click="btnSend_Click" VerticalAlignment="Center" HorizontalAlignment="Right" Content="Senden"/>
+        <Button x:Name="btnData" Style="{StaticResource RoundButtonTemplate}" Click="btnData_Click" Width="30" Height="30" Grid.Column="1" Grid.Row="5" Cursor="Hand" HorizontalAlignment="Left" Background="Transparent">
+            <StackPanel>
+                <Image Source="Bilder/gamepad.ico"/>
+            </StackPanel>
+        </Button>
+        <Button x:Name="btnBack" Style="{StaticResource RoundButtonTemplate}" Click="btnBack_Click" Width="30" Height="30" Grid.Column="1" Grid.Row="0" Cursor="Hand" HorizontalAlignment="Left" BorderBrush="Transparent" Background="Transparent">
+            <StackPanel>
+                <Image Source="Bilder/return.ico"/>
+            </StackPanel>
+        </Button>
+        <Label x:Name="lblNameReceiver" FontSize="22"  Style="{StaticResource Label}" Grid.Column="1" Grid.Row="0" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" HorizontalAlignment="Center" Grid.ColumnSpan="2" Width="220" Height="40"/>
+        <Button x:Name="btnKonfetti" Background="Transparent" Style="{StaticResource RoundButtonTemplate}" Grid.Column="2" Grid.Row="5" Height="30" Width="30" Click="btnKonfetti_Click">
+            <StackPanel>
+                <Image Source="Bilder/party.ico"/>
+            </StackPanel>            
+        </Button>
+        
+
+    </Grid>
+</Window>

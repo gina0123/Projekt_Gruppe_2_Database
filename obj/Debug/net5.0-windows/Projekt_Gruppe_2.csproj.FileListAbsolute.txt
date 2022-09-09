@@ -1,0 +1,284 @@
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2_MarkupCompile.cache
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2_MarkupCompile.lref
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.exe
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.deps.json
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.runtimeconfig.json
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.runtimeconfig.dev.json
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.dll
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\bin\Debug\net5.0-windows\ref\Projekt_Gruppe_2.dll
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.pdb
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.g.resources
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.AssemblyInfo.cs
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.csproj.CopyComplete
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.dll
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\obj\Debug\net5.0-windows\ref\Projekt_Gruppe_2.dll
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.pdb
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.genruntimeconfig.cache
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\obj\Debug\net5.0-windows\ChatScreen.g.cs
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Verbindung.g.cs
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\obj\Debug\net5.0-windows\ChatScreen.baml
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Verbindung.baml
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\obj\Debug\net5.0-windows\App.baml
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\bin\Debug\net5.0-windows\blazor-dom-confetti.dll
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Authorization.dll
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Components.dll
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Metadata.dll
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Microsoft.JSInterop.dll
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2\Projekt_Gruppe_2\Projekt_Gruppe_2\bin\Debug\net5.0-windows\System.IO.Pipelines.dll
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.exe
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.deps.json
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.runtimeconfig.json
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.runtimeconfig.dev.json
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.dll
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\bin\Debug\net5.0-windows\ref\Projekt_Gruppe_2.dll
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.pdb
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\bin\Debug\net5.0-windows\blazor-dom-confetti.dll
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Authorization.dll
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Components.dll
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Metadata.dll
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Microsoft.JSInterop.dll
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\bin\Debug\net5.0-windows\System.IO.Pipelines.dll
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.csproj.AssemblyReference.cache
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\obj\Debug\net5.0-windows\ChatScreen.g.cs
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Verbindung.g.cs
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2_MarkupCompile.cache
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2_MarkupCompile.lref
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\obj\Debug\net5.0-windows\App.baml
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\obj\Debug\net5.0-windows\ChatScreen.baml
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Verbindung.baml
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.g.resources
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.AssemblyInfoInputs.cache
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.AssemblyInfo.cs
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.csproj.CoreCompileInputs.cache
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.csproj.CopyComplete
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.dll
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\obj\Debug\net5.0-windows\ref\Projekt_Gruppe_2.dll
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.pdb
+C:\Users\internet\Desktop\Zweites Semester\Praxisblock\Programmieren2\2022-09-05\ChatApp01\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.genruntimeconfig.cache
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\obj\Debug\net5.0-windows\ChatScreen.g.cs
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Verbindung.g.cs
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2_MarkupCompile.cache
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2_MarkupCompile.lref
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.dll
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\obj\Debug\net5.0-windows\ref\Projekt_Gruppe_2.dll
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.pdb
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.exe
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.deps.json
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.runtimeconfig.json
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.runtimeconfig.dev.json
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.dll
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\bin\Debug\net5.0-windows\ref\Projekt_Gruppe_2.dll
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.pdb
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\bin\Debug\net5.0-windows\blazor-dom-confetti.dll
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Authorization.dll
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Components.dll
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Metadata.dll
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Microsoft.JSInterop.dll
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\bin\Debug\net5.0-windows\System.IO.Pipelines.dll
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\bin\Debug\net5.0-windows\WpfAnimatedGif.dll
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\obj\Debug\net5.0-windows\App.baml
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\obj\Debug\net5.0-windows\ChatScreen.baml
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Verbindung.baml
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.g.resources
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.AssemblyInfo.cs
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.csproj.CopyComplete
+C:\Users\user\Downloads\ChatApp01-main\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.genruntimeconfig.cache
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.exe
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.deps.json
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.runtimeconfig.json
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.runtimeconfig.dev.json
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.dll
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\ref\Projekt_Gruppe_2.dll
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.pdb
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\WpfAnimatedGif.dll
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\ChatScreen.g.cs
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2_MarkupCompile.cache
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2_MarkupCompile.lref
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\App.baml
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\ChatScreen.baml
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.g.resources
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.AssemblyInfo.cs
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.csproj.CopyComplete
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.dll
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\ref\Projekt_Gruppe_2.dll
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.pdb
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.genruntimeconfig.cache
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Connection.g.cs
+C:\Users\user\Documents\Praxisblock II\Projekt_Messenger\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Connection.baml
+C:\Users\user\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.exe
+C:\Users\user\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.dll.config
+C:\Users\user\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.deps.json
+C:\Users\user\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.runtimeconfig.json
+C:\Users\user\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.runtimeconfig.dev.json
+C:\Users\user\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.dll
+C:\Users\user\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\ref\Projekt_Gruppe_2.dll
+C:\Users\user\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.pdb
+C:\Users\user\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\user\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\user\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\WpfAnimatedGif.dll
+C:\Users\user\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\ChatScreen.g.cs
+C:\Users\user\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Connection.g.cs
+C:\Users\user\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\user\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\user\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2_MarkupCompile.cache
+C:\Users\user\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2_MarkupCompile.lref
+C:\Users\user\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\App.baml
+C:\Users\user\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\ChatScreen.baml
+C:\Users\user\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Connection.baml
+C:\Users\user\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\user\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.g.resources
+C:\Users\user\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.AssemblyInfo.cs
+C:\Users\user\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.csproj.CopyComplete
+C:\Users\user\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.dll
+C:\Users\user\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\ref\Projekt_Gruppe_2.dll
+C:\Users\user\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.pdb
+C:\Users\user\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.genruntimeconfig.cache
+C:\Users\joshu\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.exe
+C:\Users\joshu\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.dll.config
+C:\Users\joshu\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.deps.json
+C:\Users\joshu\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.runtimeconfig.json
+C:\Users\joshu\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.runtimeconfig.dev.json
+C:\Users\joshu\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.dll
+C:\Users\joshu\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\ref\Projekt_Gruppe_2.dll
+C:\Users\joshu\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.pdb
+C:\Users\joshu\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\joshu\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\joshu\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\joshu\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\joshu\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\WpfAnimatedGif.dll
+C:\Users\joshu\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\joshu\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\joshu\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\joshu\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joshu\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joshu\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\ChatScreen.g.cs
+C:\Users\joshu\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Connection.g.cs
+C:\Users\joshu\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\joshu\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\joshu\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2_MarkupCompile.cache
+C:\Users\joshu\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2_MarkupCompile.lref
+C:\Users\joshu\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\App.baml
+C:\Users\joshu\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\ChatScreen.baml
+C:\Users\joshu\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Connection.baml
+C:\Users\joshu\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\joshu\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.g.resources
+C:\Users\joshu\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshu\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.AssemblyInfoInputs.cache
+C:\Users\joshu\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.AssemblyInfo.cs
+C:\Users\joshu\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.csproj.CoreCompileInputs.cache
+C:\Users\joshu\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.csproj.CopyComplete
+C:\Users\joshu\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.dll
+C:\Users\joshu\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\ref\Projekt_Gruppe_2.dll
+C:\Users\joshu\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.pdb
+C:\Users\joshu\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.genruntimeconfig.cache
+C:\Users\joshu\Desktop\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.exe
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.dll.config
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.deps.json
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.runtimeconfig.json
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.runtimeconfig.dev.json
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.dll
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\ref\Projekt_Gruppe_2.dll
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Projekt_Gruppe_2.pdb
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\WpfAnimatedGif.dll
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\ChatScreen.g.cs
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Connection.g.cs
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2_MarkupCompile.cache
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2_MarkupCompile.lref
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\App.baml
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\ChatScreen.baml
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Connection.baml
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.g.resources
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.Resource1.resources
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.AssemblyInfo.cs
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.csproj.CopyComplete
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.dll
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\ref\Projekt_Gruppe_2.dll
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.pdb
+C:\Users\user\Desktop\Neuer Ordner\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2_08_09\Projekt_Gruppe_2V02\Projekt_Gruppe_2\obj\Debug\net5.0-windows\Projekt_Gruppe_2.genruntimeconfig.cache
